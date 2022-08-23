@@ -1,4 +1,3 @@
-
 export default function App() {
   return (
     <p>
@@ -6,4 +5,3 @@ export default function App() {
     </p>
   );
 }
-
