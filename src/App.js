@@ -1,7 +1,7 @@
 export default function App() {
   return (
-    <p>
-      teste
-    </p>
+    <a href="../public/Pages/testPage.html">
+      testando github
+    </a>
   );
 }
