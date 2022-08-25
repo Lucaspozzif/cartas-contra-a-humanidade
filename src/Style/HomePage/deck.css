@@ -1,0 +1,21 @@
+.deckHolder{
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    transition: 300ms;
+}
+.dark{
+    background-color: #1C2121;
+}
+.closed{
+    height: 300px;
+    width: 50px;
+
+}
+.opened{
+    height: 300px;
+    width: 1000px;
+
+}

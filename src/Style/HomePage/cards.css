@@ -1,0 +1,11 @@
+.card{
+    border-radius: 10px;
+}
+.blackCard{
+    background-color: #1c2121;
+    color: #B5A470;
+}
+.largeCard{
+    height: 357px;
+    width: 260px;
+}
