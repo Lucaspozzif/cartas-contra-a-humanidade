@@ -1,0 +1,207 @@
+{
+    "cardIndex": {
+        "quest": true,
+        "text": [
+            "esse(a)",
+            "fala coisas interessantes sobre",
+            "."
+        ]
+    },
+    "deckId": {
+        "quest": [
+            {
+                "quest": true,
+                "text": [
+                    "esse(a)",
+                    "fala coisas interessantes sobre",
+                    "."
+                ]
+            },
+            {
+                "quest": true,
+                "text": [
+                    "esse(a)",
+                    "fala coisas interessantes sobre",
+                    "."
+                ]
+            }
+        ],
+        "awnser": [],
+        "data": {
+            "verified":true,
+            "createdAt":"timestamp",
+            "authorId": "",
+            "deckName": "",
+            "color": 2,
+            "timesUsed": [
+                {
+                    "players":[
+                        "34f,34j",
+                        "uif3h47h"
+                    ]
+                }
+            ],
+            "favorite": [
+                {
+                    "playerId":"2249843f38"
+                }
+            ]
+        }
+    },
+    "roomId": {
+        "host": "hostId",
+        "players": [
+            {
+                "name":"",
+                "id":"swf-99ewmew",
+                "deck":[
+                    {"card":"card"}
+                ],
+                "score":12
+            }
+        ],
+        "decks": {
+            "deckIdsd": {
+                "quest": [
+                    {
+                        "quest": true,
+                        "text": [
+                            "esse(a)",
+                            "fala coisas interessantes sobre",
+                            "."
+                        ]
+                    },
+                    {
+                        "quest": true,
+                        "text": [
+                            "esse(a)",
+                            "fala coisas interessantes sobre",
+                            "."
+                        ]
+                    }
+                ],
+                "awnser": [],
+                "data": {
+                    "author": "",
+                    "deckName": "",
+                    "color": 2,
+                    "timesUsed": 444,
+                    "favorite": 22
+                }
+            },
+            "deckI43d": {
+                "quest": [
+                    {
+                        "quest": true,
+                        "text": [
+                            "esse(a)",
+                            "fala coisas interessantes sobre",
+                            "."
+                        ]
+                    },
+                    {
+                        "quest": true,
+                        "text": [
+                            "esse(a)",
+                            "fala coisas interessantes sobre",
+                            "."
+                        ]
+                    }
+                ],
+                "awnser": [],
+                "data": {
+                    "author": "",
+                    "deckName": "",
+                    "color": 2,
+                    "timesUsed": 444,
+                    "favorite": 22
+                }
+            },
+            "deckId": {
+                "quest": [
+                    {
+                        "quest": true,
+                        "text": [
+                            "esse(a)",
+                            "fala coisas interessantes sobre",
+                            "."
+                        ]
+                    },
+                    {
+                        "quest": true,
+                        "text": [
+                            "esse(a)",
+                            "fala coisas interessantes sobre",
+                            "."
+                        ]
+                    }
+                ],
+                "awnser": [],
+                "data": {
+                    "author": "",
+                    "deckName": "",
+                    "color": 2,
+                    "timesUsed": 444,
+                    "favorite": 22
+                }
+            }
+        },
+        "rules": {
+            "roundTime": 45,
+            "rounds": 5,
+            "maxPlayer": false,
+            "chat": true
+        },
+        "chat": [
+            {
+                "id": "454g4g5yy65h6hg5h",
+                "msg": "hello World"
+            }
+        ],
+        "game": {
+            "quest": [
+                "carai",
+                "pq vc fez",
+                "?"
+            ],
+            "cards": [
+                {
+                    "id": "9398f4389fj",
+                    "card": [
+                        "bufus regularis",
+                        "sexo na praia"
+                    ]
+                },
+                {
+                    "id": "9398f4389fj",
+                    "card": [
+                        "bufus regularis",
+                        "sexo na praia"
+                    ]
+                },
+                {
+                    "id": "9398f4389fj",
+                    "card": [
+                        "bufus regularis",
+                        "sexo na praia"
+                    ]
+                }
+            ],
+            "juri":"",
+            "round":1
+        }
+    },
+    "playerId": {
+        "name":"name",
+        "timesplayed":11,
+        "decks":{
+            "favorite":[
+                "73yr498376"
+            ],
+            "used":{
+                "8289fd928":1,
+                "900e32r2d":4
+            }
+        }
+    }
+}

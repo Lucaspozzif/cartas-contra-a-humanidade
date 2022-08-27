@@ -1,7 +1,14 @@
-export function NotFoundPage(){
-    return(
+import { Link } from "react-router-dom";
+
+export function NotFoundPage() {
+    return (
         <div>
-            <p>Essa página ainda está em desenvolvimento, seu filho da puta</p>
+            <p>Nem a página 404 está configurada ainda {":("}</p>
+            <Link to={'/'}>
+                <button>
+                    Voltar
+                </button>
+            </Link>
         </div>
     )
 }

@@ -1,0 +1,13 @@
+.sideMenuItem{
+    height: 100px;
+    border-radius: 10px;   
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.closed{
+    width: 100px; 
+}
+.open{
+    width: 600px; 
+}

@@ -12,7 +12,6 @@ export function MenuItem(props) {
 
 }
 export function MenuSpacer(props) {
-    console.log(props)
     return (
 
         <div className="menuSpacer backSpacer">
