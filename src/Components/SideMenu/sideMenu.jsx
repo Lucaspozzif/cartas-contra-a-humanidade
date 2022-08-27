@@ -8,7 +8,7 @@ import '../../Style/SideMenu/sideMenuItem.css'
 import '../../Style/SideMenu/sideMenuIcon.css'
 import '../../Style/SideMenu/sideMenuSpacer.css'
 import '../../Style/SideMenu/sideMenuText.css'
-import '../../Style/SideMenu/colors.css'
+import '../../Style/Style/colors.css'
 
 export function SideMenu(props) {
     const dark = props.dark

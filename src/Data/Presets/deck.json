@@ -141,7 +141,13 @@
                     "author": "",
                     "deckName": "",
                     "color": 2,
-                    "timesUsed": 444,
+                    "timesUsed": [
+                        "timestamp",
+                        "timestamp",
+                        "timestamp",
+                        "timestamp",
+                        "timestamp"
+                    ],
                     "favorite": 22
                 }
             }

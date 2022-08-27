@@ -1,0 +1,13 @@
+.deck{
+    height: 300px;
+    width: 950px;
+    padding-right: 50px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}

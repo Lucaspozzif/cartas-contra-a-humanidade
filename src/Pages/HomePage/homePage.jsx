@@ -1,4 +1,4 @@
-import '../../Style/Reset/reset.css'
+import '../../Style/Style/reset.css'
 import '../../Style/HomePage/homePage.css'
 import '../../Style/HomePage/cards.css'
 import '../../Style/HomePage/deck.css'

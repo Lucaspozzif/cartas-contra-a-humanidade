@@ -1,0 +1,35 @@
+.cardText{
+    text-align: center;
+}
+.cardText1{
+    font-size: 24px;
+
+}
+.cardText2{
+    font-size: 32px;
+
+}
+.cardText3{
+    font-size: 32px;
+
+}
+.cardHeaderText{
+    position: absolute;
+    top: 10px;
+}
+.cardFooterText{
+    position: absolute;
+    bottom: 10px;
+}
+.cardSubtext1{
+    font-size: 10px;
+
+}
+.cardSubtext2{
+    font-size: 18px;
+
+}
+.cardSubtext3{
+    font-size: 20px;
+
+}

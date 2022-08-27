@@ -1,0 +1,17 @@
+.viewCardSupport{
+    position: absolute;
+    top: 12%;
+    left: 350px;
+}
+.viewCard{
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.arrowButton{
+    height: 25px;
+    width: 25px;
+    margin: 50px;
+    background-color: aqua;
+}

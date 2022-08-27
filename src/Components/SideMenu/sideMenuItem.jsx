@@ -6,7 +6,7 @@ export function SideMenuItem(props) {
     const closed = props.closed
     return (
         <Link to={props.link}>
-            <div className={'sideMenuItem ' + (dark?'black ':'blue10 ')+(closed?'closed ':'open ')}>
+            <div className={'sideMenuItem ' + (dark?'black ':' ')+(closed?'closed ':'open ')}>
                 {closed?<></>:<h1 className='sideMenuText'>{props.text}</h1>}
                 <SideMenuIcon dark={dark}/>
             </div>

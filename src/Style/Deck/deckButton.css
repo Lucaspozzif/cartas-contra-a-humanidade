@@ -1,0 +1,9 @@
+.deckButton{
+    height: 300px;
+    width: 50px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
