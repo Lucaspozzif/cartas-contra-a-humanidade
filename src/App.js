@@ -7,6 +7,7 @@ import { TestPage } from './Pages/Test/testPage';
 import { NotFoundPage } from './Pages/404/404Page';
 import { DeckPage } from './Pages/DeckPage/deckPage';
 import { EnterRoom } from './Pages/EnterRoom/enterRoom';
+import { CreateDeck } from './Pages/CreateDeck/createDeck';
 
 export default function App() {
   return (
@@ -16,6 +17,7 @@ export default function App() {
       <Route path='/e' element={<EnterRoom />} ></Route>
       <Route path='/debug' element={<TestPage />} ></Route>
       <Route path='d/details/:deckId' element={<DeckPage />} ></Route>
+      <Route path='d/create' element={<CreateDeck />} ></Route>
       <Route path='*' element={<NotFoundPage />} ></Route>
     </Routes>
     </BrowserRouter>

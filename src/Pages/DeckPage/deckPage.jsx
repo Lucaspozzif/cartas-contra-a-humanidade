@@ -46,25 +46,27 @@ export function DeckPage() {
                 <div className="viewCard">
                     <div className="arrowButton" onClick={() => {
                         if (awnserCard == 0) awnserCardState(deck['awnser'].length - 1)
-                        else awnserCardState(awnserCard-1)
+                        else awnserCardState(awnserCard - 1)
                     }}></div>
                     <Card size={3} text={deck['awnser'][awnserCard]['text']} />
                     <div className="arrowButton" onClick={() => {
                         if (awnserCard == deck['awnser'].length - 1) awnserCardState(0)
-                        else awnserCardState(awnserCard+1)
+                        else awnserCardState(awnserCard + 1)
                     }}></div>
                 </div>
+                <p>teste</p>
                 <div className="viewCard">
                     <div className="arrowButton" onClick={() => {
                         if (questCard == 0) questCardState(deck['quest'].length - 1)
-                        else questCardState(questCard-1)
+                        else questCardState(questCard - 1)
                     }}></div>
                     <Card size={3} text={deck['quest'][questCard]['text'].join('\n____\n')} />
                     <div className="arrowButton" onClick={() => {
                         if (questCard == deck['quest'].length - 1) questCardState(0)
-                        else questCardState(questCard+1)
+                        else questCardState(questCard + 1)
                     }}></div>
                 </div>
+                <p>teste</p>
             </div>
             <div className="mainCard">
                 <Card size={2} text={deckData['name']} footerText={author} headerText={deckData['name']} />

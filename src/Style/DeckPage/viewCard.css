@@ -1,10 +1,11 @@
 .viewCardSupport{
     position: absolute;
-    top: 12%;
+    bottom: 10%;
     left: 350px;
+    text-align: center;
 }
 .viewCard{
-    margin-bottom: 100px;
+    margin-top: 100px;
     display: flex;
     justify-content: center;
     align-items: center;
